@@ -1,0 +1,24 @@
+{
+  "name": "SandboxApolloGraphQL",
+  "version": "1.0.0",
+  "description": "Playing around with ApolloGraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joewilson81/SandboxApolloGraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joewilson81/SandboxApolloGraphQL/issues"
+  },
+  "homepage": "https://github.com/joewilson81/SandboxApolloGraphQL#readme",
+  "dependencies": {
+    "apollo-server": "^2.9.6",
+    "graphql": "^14.5.8"
+  }
+}
